@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* 可变数组 
+* 鍙彉鏁扮粍
 */
 
 const BLOCK_SIZE = 20;
